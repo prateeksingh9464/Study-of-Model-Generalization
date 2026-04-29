@@ -1,4 +1,3 @@
-```markdown
 # Model Generalization using Stacked Ensemble Learning & Advanced CV
 
 > Official repository for the paper "Study of Model Generalization Using Advanced Cross-Validation Techniques and Stacked Ensemble Learning." It tackles ML overfitting and dataset bias by combining a Stacked Ensemble framework (RF, SVM, LR) with 10-fold Stratified CV to boost predictive reliability on unseen data.
@@ -65,4 +64,3 @@ The framework was tested on three benchmark datasets: **Breast Cancer**, **Wine*
 * **Gurleen Kaur**
 
 *Department of CSE (AIML), Chandigarh University, Mohali, India.*
-```

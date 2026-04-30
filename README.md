@@ -44,8 +44,8 @@ The framework was tested on three benchmark datasets: **Breast Cancer**, **Wine*
 ### Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/prateeksingh9464/Study-of-Model-Generalization.git](https://github.com/prateeksingh9464/Study-of-Model-Generalization.git)
+   cd Study-of-Model-Generalization
    ```
 2. Install required packages:
    ```bash

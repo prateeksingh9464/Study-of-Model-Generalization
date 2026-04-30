@@ -36,14 +36,20 @@ The implementation achieves high stability and accuracy across all tested enviro
 - `requirements.txt` dependencies (NumPy, Pandas, Scikit-Learn, Matplotlib, imbalanced-learn)
 
 ### Installation
-1. Clone the repository:
-   git clone https://github.com/prateeksingh9464/Study-of-Model-Generalization.git
-   
-2. Move into the project directory:
-   cd Study-of-Model-Generalization
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/prateeksingh9464/Study-of-Model-Generalization.git](https://github.com/prateeksingh9464/Study-of-Model-Generalization.git)
+```
 
-3. Install dependencies:
-   pip install -r requirements.txt
+2. **Move into the project directory:**
+```bash
+cd Study-of-Model-Generalization
+```
+
+3. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
 
 ### Usage
 Open the Jupyter Notebook in VS Code or your preferred environment to run the model:

@@ -38,7 +38,7 @@ The implementation achieves high stability and accuracy across all tested enviro
 ### Installation
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/prateeksingh9464/Study-of-Model-Generalization.git](https://github.com/prateeksingh9464/Study-of-Model-Generalization.git)
+git clone https://github.com/prateeksingh9464/Study-of-Model-Generalization.git
 ```
 
 2. **Move into the project directory:**

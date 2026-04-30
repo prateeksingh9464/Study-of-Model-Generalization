@@ -40,11 +40,12 @@ The framework was tested on three benchmark datasets: **Breast Cancer**, **Wine*
 - NumPy & Pandas
 - Scikit-Learn
 - Matplotlib & Seaborn
+- imbalanced-learn
 
 ### Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/prateeksingh9464/Study-of-Model-Generalization.git](https://github.com/prateeksingh9464/Study-of-Model-Generalization.git)
+   git clone https://github.com/prateeksingh9464/Study-of-Model-Generalization.git
    cd Study-of-Model-Generalization
    ```
 2. Install required packages:
